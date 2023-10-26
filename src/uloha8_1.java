@@ -1,4 +1,7 @@
-public class main8 {
+/*Napíšte program Java, ktorý zobrazí nasledujúci vzor JAVA.*/
+
+
+public class uloha8_1 {
     public static void main(String[] args) {
         System.out.println("   J   a  v     v  a");
         System.out.println("   J  a a  v   v  a a");

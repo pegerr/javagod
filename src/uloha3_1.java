@@ -2,7 +2,7 @@
 variantu s načítaním údajov od užívateľa a variantu s pevne zadanými
 vstupmi.*/
 
-public class uloha3 {
+public class uloha3_1 {
     public static void main(String[] args) {
         double cislo = 50;
         double delitel = 3;

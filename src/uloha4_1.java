@@ -5,7 +5,7 @@ b. (55+9) % 9
 c. 20 + -3*5 / 8
 d. 5 + 15 / 3 * 2 - 8 % 3*/
 
-public class uloha4 {
+public class uloha4_1 {
         public static void main(String[] args) {
             int resultA = -5 + 8 * 6;
 

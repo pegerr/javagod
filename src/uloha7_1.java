@@ -1,5 +1,15 @@
+/*Napíšte Java program, ktorý vezme číslo ako vstup a vypíše svoju tabuľku
+násobenia až do 10.
+Testovacie údaje:
+Zadajte číslo: 8
+Očakávaný výstup :
+8 x 1 = 8
+8 x 2 = 16
+8 x 3 = 24*/
+
+
 import java.util.Scanner;
-public class main7 {
+public class uloha7_1 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

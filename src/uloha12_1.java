@@ -1,5 +1,9 @@
+/*Napíšte Java program, ktorý použije tri čísla ako vstup na výpočet a výpis
+priemeru čísel.*/
+
+
 import java.util.Scanner;
-public class main12 {
+public class uloha12_1 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

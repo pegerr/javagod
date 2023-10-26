@@ -1,6 +1,6 @@
 //Napíšte Java program, ktorý vypíše súčet dvoch čísel.
 
-public class uloha2 {
+public class uloha2_1 {
     public static void main(String[] args) {
         int cislo1 = 25;
         int cislo2 = 35;

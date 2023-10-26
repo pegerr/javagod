@@ -1,8 +1,8 @@
-/*Napíšte Java program, ktorý použije dve čísla ako vstup a zobrazí súčin*/
+/*Napíšte Java program, ktorý použije dve čísla ako vstup a zobrazí súčin dvoch čísel*/
 
 import java.util.Scanner;
 
-public class uloha5 {
+public class uloha5_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
